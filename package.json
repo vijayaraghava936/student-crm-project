@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "student-crm",
   "version": "0.1.0",
   "private": true,
@@ -40,6 +41,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+=======
+  "dependencies": {
+    "bootstrap": "^5.3.7"
+>>>>>>> fbca4462a8470bd38414a2eff348d0bc029910a6
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
